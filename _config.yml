@@ -1,5 +1,9 @@
-title: jekyll-rtd-theme
+title: Jiamin's Homepage
 description: Just another documentation theme compatible with GitHub Pages
+
+repository: jiamin-lu/jiamin-lu.github.io
+github_url: https://github.com/jiamin-lu
+url: https://jiamin-lu.github.io
 
 theme: null
 
